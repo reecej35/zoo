@@ -1,0 +1,33 @@
+html {
+  height: 125%;
+}
+
+body {
+  background: linear-gradient(0deg, black, white, green);
+  min-height: 150%;
+}
+
+h1 {
+  text-align: center;
+  border: 2px solid black;
+  background-color: #a0818f;
+  text-shadow: 2px 2px grey;
+}
+
+img {
+  width: 200px;
+  margin-left: 35px;
+}
+
+.animal {
+  float: left;
+  width: 18%;
+  border: 2px solid black;
+  margin: 6px;
+  margin-left: 10px;
+  padding: 4px;
+}
+
+.animal h2 {
+  text-align: center;
+}
